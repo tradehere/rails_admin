@@ -36,7 +36,7 @@
 
         $wrap.append(this.timepicker);
 
-        $wrap.append($('<div class="input-group-addon"><i class="fa fa-timer"></i></div>'));
+        $wrap.append($('<div class="input-group-addon"><i class="fa fa-clock-o"></i></div>'));
 
         $wrap.insertAfter(this.element);
 
